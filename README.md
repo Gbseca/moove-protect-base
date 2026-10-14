@@ -1,33 +1,21 @@
-# Moove Protect
+# Moove Protect | Base de interface
 
-Repositorio de base para uma landing page em React e TypeScript voltada a protecao veicular.
+Este repositório preserva a configuração inicial de uma landing page de proteção veicular. A versão disponível contém dependências e arquivos de configuração, mas não inclui o código da aplicação em src/. Serve como referência de estrutura e como ponto de partida para retomada do desenvolvimento.
 
-## Status
+## O que você encontra
 
-Este repositorio esta incompleto: a copia atual contem arquivos de configuracao, dependencias e README, mas nao possui a pasta `src/` com a aplicacao. Por isso, ele nao deve ser usado como projeto principal de portfolio neste momento.
+- Configuração de Vite, TypeScript e Tailwind CSS.
+- Dependências e convenções de componentes de interface.
+- Registro de uma etapa inicial do projeto.
 
-## Stack Configurada
+## Estado do repositório
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui
+A pasta `src/` não está presente nesta versão. O arquivo de entrada aponta para a aplicação ausente; por isso, a configuração disponível não basta para executar uma landing page completa.
 
-## Recomendacao
+## Base técnica
 
-Para deixar o GitHub mais profissional, este repositorio deve seguir uma das opcoes:
+React, TypeScript, Vite, Tailwind CSS e dependências de componentes shadcn/ui.
 
-- recompor o codigo da aplicacao antes de mante-lo publico;
-- tornar o repositorio privado;
-- arquivar o repositorio e destacar a versao completa em `moove-protecao-essencial` ou `astro-s-moove-protector`.
+## Continuidade
 
-## Como Rodar
-
-Quando o codigo da aplicacao for restaurado:
-
-```bash
-npm install
-npm run dev
-```
-
+A retomada depende de recompor o código da aplicação e verificar o funcionamento dos scripts de desenvolvimento e build.
